@@ -1,4 +1,4 @@
-# Course Project 1 of Lesson 4
+# Course Project 1 of Lesson 4 create plot 1
 
 
 # In order not to go through the whole procedure () each time I create a plot we code
